@@ -1,4 +1,9 @@
-### Hi there 👋
+
+![Visitor Count](https://profile-counter.glitch.me/AlwaysWillWJYY/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysWillWJYY&layout=compact)](https://github.com/AlwaysWillWJYY/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysWillWJYY&show_icons=true&theme=tokyonight)
 
 <!--
 **AlwaysWillWJYY/AlwaysWillWJYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
