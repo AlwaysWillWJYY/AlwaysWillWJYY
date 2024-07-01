@@ -5,7 +5,7 @@
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysWillWJYY&show_icons=true&theme=tokyonight)
 
-![image](https://github.com/AlwaysWillWJYY/kobs/blob/main/web/src/assets/images/Snipaste_2024-06-23_16-36-13.jpg)
+//![image](https://github.com/AlwaysWillWJYY/kobs/blob/main/web/src/assets/images/Snipaste_2024-06-23_16-36-13.jpg)
 <!--
 **AlwaysWillWJYY/AlwaysWillWJYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
